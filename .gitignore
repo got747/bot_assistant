@@ -1,6 +1,6 @@
 /.my
 /.my
-/__pycache__
+__pycache__/
 
-config.py
+.env
 desktop.ini
